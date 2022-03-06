@@ -1,9 +1,9 @@
 Tema:
  - Greed
 
-# NomedoProjeto
+# Dupla21
 
-**Número da Lista**: X<br>
+**Número da Lista**: 21<br>
 **Conteúdo da Disciplina**: Greed<br>
 
 ## Alunos
