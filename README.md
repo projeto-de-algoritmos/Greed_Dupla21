@@ -51,7 +51,7 @@ Abaixo constam os screenshots demonstrando que os problemas foram aceitos nos ju
 
 Para rodar as questões, acesse o terminal do seu computador e digite 
 
-```python 3 <nome_da_questao.py>```
+```python3 <nome_da_questao.py>```
 
 ## Apresentação 
 
